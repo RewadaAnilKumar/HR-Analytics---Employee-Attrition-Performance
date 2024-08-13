@@ -65,6 +65,8 @@ https://app.powerbi.com/view?r=eyJrIjoiZTUwNTlhMDMtYWFhZS00ZTg3LTg4MjYtYzE3NzEzM
 
 4. Develop targeted retention strategies for critical departments, age groups, and job roles.
 
+5. Implement initiatives to improve work-life balance, helping employees manage their professional and personal lives better.
+
 ## Tools Used
 Power BI: Used to create interactive reports and dashboards that visualize the data and insights.
 
